@@ -1,0 +1,229 @@
+.color-nav
+{
+    background-color:#26CED8 ;    
+    height: 50px;
+    padding-left: 40px;
+    
+}
+.nav-1{
+    padding: 0%;
+    margin: 0%;
+}
+button{
+    width: 50px;
+    height: 40px;
+    margin: 2px;
+    border-width: 5px;
+    border-color: black;
+
+}
+.item-1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    margin: 2px;
+    
+}
+.banner-section{
+    background-image: url(https://imageio.forbes.com/specials-images/imageserve/697258777/0x0.jpg?format=jpg&width=1200);
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.des-1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.btn-1{
+    width: 150px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightslategray;
+    border: 2px;
+    border-radius: 10px;
+    font-size: large;
+    margin-right: 10px;
+
+}
+.btn-2{
+    width: 150px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:transparent;
+    border: 3px;
+    border-radius: 10px;
+    font-size: large;
+    border-color:blanchedalmond;
+    border-style: solid;
+    color: white;
+    
+    
+   
+}
+.heading{
+    color:azure;
+    font-size: 20px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading-card{
+    color: black;
+    font-size: 20px;
+    text-transform: capitalize;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading-des{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    width: 120px;
+
+    margin-bottom: 20px;
+    
+    
+}
+
+.edu-cards-1{
+    background-color:#29575A;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+    
+    
+
+    
+}
+.education-1{
+    background-color:#45787B ;
+    background-image: url(https://burst.shopifycdn.com/photos/city-lights-through-rain-window.jpg?width=925&format=pjpg&exif=1&iptc=1)
+}
+.resume-card{
+    color: black;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    text-decoration: underline;
+    text-align: center;
+}
+.resume{
+    
+    background-color: #45787B;
+    padding: 0%;
+    margin: 0%;
+    
+}
+.heading-2{
+    color: black;
+    font-size: larger;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+.ravi{
+    width: 200px;
+    height: 200px;   
+}
+.edu-cards-2{
+    background-color:#29575A;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+
+    
+}
+.edu-cards-3{
+    background-color:#29575A;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+
+    
+}
+.laqshya-1{
+    width: 300px;
+    height: 200px;
+}
+.heading-9{
+    color: black;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    padding: 10px;
+    text-align: center;
+    
+}   
+.contact-us-1{
+   width: 45px;
+   height: 45px;
+   font-size: 30px;
+   background-color: #26CED8;
+   text-align: center;
+   margin: 20px;
+   border-radius:15px;
+   
+   
+  
+}
+.contact-us-2{
+    width: 45px;
+    height: 45px;
+    font-size: 30px;
+    background-color: #26CED8;
+    text-align: center;
+    margin: 20px;
+    border-radius:15px;
+    
+    
+   
+ }
+ .contact-us-3{
+    width: 45px;
+    height: 45px;
+    font-size: 30px;
+    background-color: #26CED8;
+    text-align: center;
+    margin: 20px;
+    border-radius:15px;
+    
+    
+   
+ }
+ .contact-us-4{
+    width: 45px;
+    height: 45px;
+    font-size: 30px;
+    background-color: #26CED8;
+    text-align: center;
+    margin: 20px;
+    border-radius:15px;
+    
+    
+    
+   
+ }
+ .contact-menu{
+    background-color: #7cccf6;
+ }
+.click-here{
+    font-size:small;
+    text-decoration: none;
+    
+
+}
